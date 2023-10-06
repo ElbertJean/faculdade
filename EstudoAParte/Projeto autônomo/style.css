@@ -1,0 +1,130 @@
+html {
+    font-family: 'Rubik';
+}
+
+.containerTop {
+    background-color: #343334;
+    padding: 10px;
+    border-bottom: 5px solid #EF8D3D;
+}
+
+.topTitle {
+    color: #F4F5F6;
+    font-size: 30px;
+    text-align: center;
+    line-height: 64px;
+}
+
+.containerHeader {
+    width:900px;
+    margin: auto;
+    border-bottom: 2px solid #CCC;
+}
+
+.titleHeader {
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.firstParagraphHeader { 
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.secondParagraphHeader {
+    font-weight:600;
+    margin-bottom: 10px;
+    color: #343A40;
+}
+
+.lastParagraphHeader {
+    font-size: 13px;
+    font-weight:500;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.iconSocialMidia {
+    width: 35px;
+    margin-bottom: 20px;
+}
+
+.firstContainerMain {
+    width: 600px;
+    margin: auto;
+}
+
+.paragraphMain {
+    font-size: 20px;
+    margin-top: 30px;
+    color: #797779;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.firstParagraphDicas {
+    font-size: 22px;
+    color: #797779;
+    margin: 40px 0;
+    line-height: 25px;
+}
+
+.firstADicas{
+    color: #EF8D3D;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.imageContainer{
+    width: 600px;
+}
+
+.textImage {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #797779;
+    font-weight: 500;
+}
+
+.secondADicas{
+    color: #EF8D3D;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    line-height: 25px;
+}
+
+.titleH3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.firstTextImage {
+    font-size: 12px;
+    margin-top: 10px;
+    color: #797779;
+    font-weight: 500;
+}
+
+.secondImageContainer{
+    width: 600px;
+    margin-top: 40px;
+}
+
+.secondTitleH3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.lastParagraph {
+    margin-bottom: 40px;
+}
+
+.barFooter{
+    height: 50px;
+    background-color: #343334;
+}
